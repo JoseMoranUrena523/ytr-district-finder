@@ -59,7 +59,7 @@ export default function Home() {
     <main className="mx-auto flex min-h-screen max-w-[640px] flex-col px-6 py-14">
       <header className="border-b-2 border-ink pb-6 text-center">
         <Image
-          src="/ytr-logo.jpg"
+          src="/ytr-logo.png"
           alt="Yonkers Teen Republicans logo"
           width={90}
           height={90}
