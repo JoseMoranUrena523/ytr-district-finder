@@ -61,8 +61,8 @@ export default function Home() {
         <Image
           src="/ytr-logo.jpg"
           alt="Yonkers Teen Republicans logo"
-          width={144}
-          height={144}
+          width={90}
+          height={90}
           priority
           className="mx-auto mb-4 h-36 w-36 object-contain"
         />
